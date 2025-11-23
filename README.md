@@ -360,13 +360,6 @@ The application is fully responsive:
 - [ ] WebSocket for real-time updates
 - [ ] Integration with Have I Been Pwned API
 
-## 👥 Team GA14
-
-- **Ashwin M V** (4SO22CS022)
-- **Ayman Sheik Zaheer** (4SO22CS024)
-- **Gladlin Shiny Mascarenhas** (4SO22CS047) - Team Leader
-- **Johann Lobo** (4SO22CS069)
-
 ## 📄 License
 
 Educational project for learning purposes.
